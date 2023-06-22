@@ -1,7 +1,6 @@
 <h1 align="left">नमस्ते (Namaste)🙏🏻, I'm Ayush Kumar!</h1>
 <h3 align="left">About Me:</h3>
 
-
 🔭 I’m currently working on **Open source projects and MERN stack development.**
 
 🌱 I’m currently learning **React Native**
