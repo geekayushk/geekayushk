@@ -5,13 +5,12 @@
 
 🔭 I’m currently working on **Open source projects and MERN stack development.**
 
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **React**
 
 👯 I’m looking to collaborate on **exciting open-source projects and creative web applications.**
 
 💬 Ask me about **Front-End Development**
 
-⚡ Fun fact **I am lazy but smart and hardworking.**
 
 
 ---
@@ -48,15 +47,18 @@
 </p>
 
 ---
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekayushk&&theme=dark&title_color=f90606&text_color=ffffff&hide=TCL" alt="geekayushk" /></p>
 
+<h3 align="center">Stats:</h3>
+<div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekayushk&&theme=dark&title_color=f90606&text_color=ffffff&hide=TCL" alt="geekayushk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekayushk&show_icons=true&theme=dark&title_color=f90606&text_color=ffffff&count_private=true&line_height=33" alt="geekayushk" /></p>
+
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekayushk&theme=dark" alt="geekayushk" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekayushk&theme=monokai" alt="geekayushk" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekayushk&label=Profile%20views&color=0e75b6&style=flat" alt="geekayushk" /> </p>
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=geekayushk&label=Profile%20views&color=08fdab&style=plastic" alt="geekayushk" /> </p>
